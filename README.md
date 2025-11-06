@@ -23,21 +23,5 @@
 
 ![Image](https://github.com/user-attachments/assets/be8a8f63-2c6f-4f63-93fd-643d4af91ed7)
 
-#### Pantalla de datos del usario.
-![Image](https://github.com/user-attachments/assets/5e337c83-94c9-4711-ae0f-ac63c0a3db4a)
-
-#### Pantalla de **Reportes**
-
-![Image](https://github.com/user-attachments/assets/09d80d47-c04f-4269-af14-2a0b53a7696a)
-
-#### Boton Me gusta
-
-![Image](https://github.com/user-attachments/assets/98de9c67-ee1b-40fc-ad69-18797243a497)
-
-#### Boton Me comentar
-
-![Image](https://github.com/user-attachments/assets/6175c226-7aac-4917-bac2-02e13a0b8137)
-
-#### Boton de Compartir
-
-![Image](https://github.com/user-attachments/assets/3de33bb0-cd97-42de-996c-f039849cf2f9)
+# Pantalla de datos del usario/actualizado.
+<img width="880" height="774" alt="Image" src="https://github.com/user-attachments/assets/19fdf375-e788-4f01-bfa8-8b5568d15331" />
