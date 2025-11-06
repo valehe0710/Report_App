@@ -1,18 +1,23 @@
+// lib/main.dart
 import 'package:flutter/material.dart';
-import 'main_screen.dart';
+import 'main_screen.dart'; 
 
 void main() {
-  runApp(const MainApp());
+  runApp(const MyApp());
 }
 
-class MainApp extends StatelessWidget {
-  const MainApp({super.key});
+class MyApp extends StatelessWidget {
+  const MyApp({super.key});
 
   @override
   Widget build(BuildContext context) {
-    return const MaterialApp(
+    return MaterialApp(
       debugShowCheckedModeBanner: false,
-      home: MainScreen(),
+      title: 'Little Drop',
+      theme: ThemeData(primarySwatch: Colors.blue),
+      home: const MainScreen(), 
     );
   }
 }
+
+

@@ -41,7 +41,7 @@ class MenuScreen extends StatelessWidget {
                   ),
                 );
               },
-              style: ElevatedButton.styleFrom(
+             style: ElevatedButton.styleFrom(
                 backgroundColor: const Color.fromARGB(255, 21, 49, 142),
                 foregroundColor: Colors.white,
                 padding: const EdgeInsets.symmetric(horizontal: 40, vertical: 12),
@@ -54,7 +54,7 @@ class MenuScreen extends StatelessWidget {
                 Navigator.push(
                   context,
                   MaterialPageRoute(
-                    builder: (context) => const ReportsScreen(),
+                    builder: (context) => ReportsScreen(),
                   ),
                 );
               },
@@ -72,3 +72,5 @@ class MenuScreen extends StatelessWidget {
     );
   }
 }
+
+              

@@ -1,7 +1,9 @@
+// lib/main_screen.dart
 import 'package:flutter/material.dart';
-import 'custom_button.dart'; 
+import 'custom_button.dart';
 import 'login_screen.dart';
 import 'register_screen.dart';
+import 'reports_screen.dart'; 
 
 class MainScreen extends StatelessWidget {
   const MainScreen({super.key});
@@ -24,7 +26,7 @@ class MainScreen extends StatelessWidget {
             ),
             const SizedBox(height: 30),
 
-            // login
+            // Botón Login
             BotonPersonalizado(
               texto: 'Login',
               onPressed: () {
@@ -42,7 +44,7 @@ class MainScreen extends StatelessWidget {
             ),
             const SizedBox(height: 16),
 
-            // Sign Up
+            // Botón Sign Up
             BotonPersonalizado(
               texto: 'Sign Up',
               onPressed: () {
